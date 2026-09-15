@@ -134,3 +134,16 @@ Aspiring Data Analyst
 
 ### Skills
 Python | SQL | MySQL | Excel | Power BI | Tableau | Data Analysis
+## 📊 Power BI Dashboard
+
+### 1. Credit Card Overview
+![Credit Card Overview](Screenshot%202026-09-15%20122728.png)
+
+### 2. Cardholder Analysis
+![Cardholder Analysis](Screenshot%202026-09-15%20122653.png)
+
+### 3. Spending Analysis
+![Spending Analysis](Screenshot%202026-09-15%20122620.png)
+
+### 4. Transaction Analysis
+![Transaction Analysis](Screenshot%202026-09-15%20122558.png)
